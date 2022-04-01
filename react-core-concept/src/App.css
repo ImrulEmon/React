@@ -44,3 +44,7 @@
   background-color: rgba(114, 82, 3, 0.829);
   margin: 5% auto;
 }
+
+.Person{
+  border: 2px solid black;
+}
