@@ -16,7 +16,7 @@ function App() {
           movies.map(movie=><Movie name={movie.name} hero={movie.hero}></Movie>)
         }
      
-      <Movie name={movies[0].name} hero={movies[0].hero}></Movie>
+      {/* <Movie name={movies[0].name} hero={movies[0].hero}></Movie> */}
       <ul>
         {
           nayoks.map(nayok=> <li>{nayok}</li>)
